@@ -1,6 +1,23 @@
-# 💫 About Me:
-I’m currently working on a Lexara AI for the help of Dyslexic Students<br>Experimenting with CNNs, Vision Transformers, and hybrid DL models <br>Developing an Appointment Scheduling production level website<br>Exploring Spring Boot Frameworks and it's working<br>Solving DSA problems in Java & C++<br><br>I’m looking to collaborate on:<br>- AI/ML and Computer Vision projects  <br>- Backend systems or scalable applications  <br>- Projects that bridge software engineering with intelligent systems  <br><br>I’m looking for help with:<br>- Optimizing Machine / Deep Learning models (performance + accuracy)  <br>- Deploying ML systems into production environments<br>- Solving backend related issues<br><br>I’m currently learning:<br>- Advanced Machine & Deep Learning (NLP, Transformers, ViT, LSTM)  <br>- System design for scalable applications (Java, Spring Boot)<br>- Frontend Development Learning  <br>- Efficient model training & optimization techniques  <br> <br>Ask me about:<br>- Java backend development  <br>- DSA & problem-solving strategies  <br>- Machine Learning & Computer Vision basics  <br><br>I enjoy connecting ideas across software engineering, AI, and even physics — I like seeing systems as a whole rather than isolated parts.
+## 🧠 About Me
 
+🚀 I’m currently building **Lexara** — an AI-driven system designed to assist dyslexic students using Computer Vision and Deep Learning.
+
+☕ I specialize in **Java-based backend systems**, focusing on building scalable and production-ready applications.  
+🐍 Alongside that, I work with **Python for Machine Learning and Deep Learning**, especially in real-world applications.
+
+🤖 My work revolves around:
+- Computer Vision (YOLO, OpenCV)
+- Deep Learning (CNNs, Transformers, hybrid models)
+- Integrating AI into practical systems
+
+💻 I actively practice **DSA in Java & C++**, strengthening my problem-solving and system design thinking.
+
+🌱 Currently exploring:
+- Advanced DL architectures (ViT, LSTM, Transformers)
+- Scalable backend design (Spring Boot)
+- Efficient model optimization techniques
+
+⚡ I enjoy connecting ideas across software engineering, AI, and even physics — I prefer seeing systems as a whole rather than isolated parts.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_arun_.90) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arun-kumar-yadav-310236290) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arunishere2003) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Embarrassed_Abies_89) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iarunkumar_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arunishere2003@gmail.com) 
