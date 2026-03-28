@@ -19,6 +19,27 @@
 
 ⚡ I enjoy connecting ideas across software engineering, AI, and even physics — I prefer seeing systems as a whole rather than isolated parts.
 
+## 🤝 Open to Collaborate On
+
+- AI/ML and Computer Vision projects  
+- Backend systems and scalable applications  
+- Projects that combine software engineering with intelligent systems  
+
+## 🧠 Looking to Improve
+
+- Optimizing ML/DL models (performance + accuracy)  
+- Deploying AI systems into production environments  
+- Solving complex backend/system design challenges
+
+  ## 💬 Ask Me About
+
+- Java backend development & system design  
+- DSA problem-solving strategies  
+- Machine Learning & Computer Vision fundamentals
+
+  ## 🌐 Connect with Me
+
+Feel free to reach out or collaborate:
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_arun_.90) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arun-kumar-yadav-310236290) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arunishere2003) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Embarrassed_Abies_89) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iarunkumar_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arunishere2003@gmail.com) 
 
