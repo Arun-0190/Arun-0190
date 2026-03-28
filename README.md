@@ -17,7 +17,10 @@
 - Scalable backend design (Spring Boot)
 - Efficient model optimization techniques
 
-⚡ I enjoy connecting ideas across software engineering, AI, and even physics — I prefer seeing systems as a whole rather than isolated parts.
+## ⚡ Fun Insight
+
+I tend to think in systems — whether it’s code, AI models, or real-world problems.  
+Understanding how components connect matters more to me than the components themselves.
 
 ## 🤝 Open to Collaborate On
 
